@@ -5,6 +5,7 @@ h1 {
   line-height: 44px;
   text-align: left;
   text-transform: none;
+  letter-spacing: -1px;
 }
 
 h5 {
